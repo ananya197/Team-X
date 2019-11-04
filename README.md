@@ -1,6 +1,8 @@
 # Team-X
 
-HackTX19 ya dig
+HackTX19
+
+We use geo-tagged Twitter Data to track a wildfire and predict what areas are at most risk in the next 12 hrs.
 
 ## How to install/run
 
